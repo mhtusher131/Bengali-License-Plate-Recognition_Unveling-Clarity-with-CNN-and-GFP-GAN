@@ -64,6 +64,6 @@ If you use our code or dataset in your research, please cite our paper as follow
 
 For questions or further information, feel free to reach out to:
 
-- [Your Name](mailto:mhtusar120725@gmail.com)
+- [Md Mahamudul Hasan](mailto:mhtusar120725@gmail.com)
 - [Co-Author Name](mailto:co.author@example.com)
 
