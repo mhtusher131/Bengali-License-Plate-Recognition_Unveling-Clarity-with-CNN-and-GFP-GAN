@@ -1,7 +1,4 @@
-# Bengali-License-Plate-Recognition_Unveling-Clarity-with-CNN-and-GFP-GAN
-Bengali License Plate Recognition :Unveling Clarity with CNN and GFP-GAN
-
-# Automated License Plate Recognition (ALPR) for Bengali License Plates
+#Bengali License Plate Recognition :Unveling Clarity with CNN and GFP-GAN
 
 ![Project Logo or Banner Image](banner.png)
 
