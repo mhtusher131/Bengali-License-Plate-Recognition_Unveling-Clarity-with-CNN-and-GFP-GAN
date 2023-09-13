@@ -60,7 +60,8 @@ If you use our code or dataset in your research, please cite our paper as follow
 ## Contact
 
 For questions or further information, feel free to reach out to:
-
+- [Noushin Afrin](mailto:noushinmaifa@gmail.com)
 - [Md Mahamudul Hasan](mailto:mhtusar120725@gmail.com)
-- [Co-Author Name](mailto:co.author@example.com)
+- [Fazlay Elahi Safin](mailto:mdsafin4321@gmail.com)
+- [Mr. Md. Tanvir Rouf Shawon](mailto:shawontanvir.cse@aust.edu)
 
