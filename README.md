@@ -1,4 +1,4 @@
-#Bengali License Plate Recognition :Unveling Clarity with CNN and GFP-GAN
+# Bengali License Plate Recognition :Unveling Clarity with CNN and GFP-GAN
 
 ![Project Logo or Banner Image](banner.png)
 
